@@ -32,7 +32,7 @@ const RightDescription = () => {
             <div className='black-box-details'>
                 <p><b>Masters of Business Administration:</b> Marketing | 2024
                     Rajshahi University, Bangladesh
-                    Expected CGPA: 3.10 (out of 4)
+                    Total CGPA: 3.08 (out of 4)
                 </p>
                 <p><b>Bachelor of Business Administration:</b> Marketing | 2023
                     Rajshahi University, Bangladesh
