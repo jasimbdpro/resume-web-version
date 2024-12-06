@@ -5,31 +5,31 @@ const LeftHighlight = () => {
             <img className='owner-profile' src="profile.jpg" alt="" />
             <div className='white-box'><h4>CONTACTS</h4></div>
             <div className='white-box-details'>
-                <a href="">
+                <a href="tel:+8801827104738">
                     <p>+8801827104738</p>
                 </a>
-                <a href="">
+                <a href="mailto:jasimbdpro@gmail.com">
                     <p>
                         jasimbdpro@gmail.com
                     </p>
                 </a>
                 <a href="">
                     <p>
-                        Hossen Shaheed Suhrawardy Hall
-                        (RU), Motihar, Rajshahi
+                        Chowgacha, Jashore
                     </p>
                 </a>
-                <a href="">
-                    <p>facebook.com/jasimsdream
+                <a href="https://facebook.com/jasimbdpro">
+                    <p>facebook.com/jasimbdpro
                     </p>
                 </a>
-                <a href="">
+                <a href="https://behance.net/jasimbdpro">
                     <p>
                         behance.net/jasimbdpro
                     </p>
                 </a>
-                <a href="">
+                <a href="https://github.com/jasimbdpro">
                     <p>
+                        github.com/jasimbdpro
                     </p>
                 </a>
             </div>
